@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ucWwAib+fAIa+DDUvZtKSlRoxlpXl2ZYvHYozv9jgrj3113FF/TfZd+36wScrn+7qb+aGftYwVxs8Z1+hcbg8A==",
+  "dgSpecHash": "Xuf7coDjp25WEpyfeCJRLq5xUC0ZbII4uwNElhDlAlQjR99JunGYm8w+wtwNPDNRMLlCSYfc28QbVzAXwqDl+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\caleb\\source\\repos\\BusinessCardWebApp\\BusinessCardWebApp\\BusinessCardWebApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/bajuba/gitprojects/BusinessCardWebApp/BusinessCardWebApp/BusinessCardWebApp.csproj",
+  "expectedPackageFiles": [
+    "/home/bajuba/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.16/microsoft.netcore.app.host.linux-x64.3.1.16.nupkg.sha512"
+  ],
   "logs": []
 }

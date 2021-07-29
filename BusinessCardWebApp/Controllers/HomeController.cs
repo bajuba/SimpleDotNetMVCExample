@@ -20,8 +20,16 @@ namespace BusinessCardWebApp.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.name = "";
             return View();
         }
+        [HttpPost]
+        public IActionResult Index(string name)
+        {
+            ViewBag.name = name;
+            return View();
+        }
+
 
         public IActionResult Privacy()
         {
