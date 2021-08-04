@@ -1,6 +1,31 @@
 ﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
+#card-gen {
+    background-color: lightblue;
+    width: 400px;
+    overflow: auto;
+    border-style: solid;
+    border-radius: 3px;
+}
+
+#name-card {
+    height: 5px;
+    padding-left: 10px;
+}
+
+#job-title-card {
+    height: 5px;
+    padding-left: 10px;
+}
+
+#business-card {
+    padding-left: 10px;
+}
+
+#qr-code {
+}
+
 a.navbar-brand {
   white-space: normal;
   text-align: center;

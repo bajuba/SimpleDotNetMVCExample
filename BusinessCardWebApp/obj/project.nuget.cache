@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Xuf7coDjp25WEpyfeCJRLq5xUC0ZbII4uwNElhDlAlQjR99JunGYm8w+wtwNPDNRMLlCSYfc28QbVzAXwqDl+A==",
+  "dgSpecHash": "RRQrB7vIVrYyuPBbM7B2l2AUoWalMCMxRYJ4lfiPCnKTqbvm77hYbeyCpIZvUIYK+XU80I1G8k71BBjMqMahWQ==",
   "success": true,
-  "projectFilePath": "/home/bajuba/gitprojects/BusinessCardWebApp/BusinessCardWebApp/BusinessCardWebApp.csproj",
+  "projectFilePath": "C:\\Users\\cmlan\\source\\repos\\BusinessCardWebApp\\BusinessCardWebApp\\BusinessCardWebApp.csproj",
   "expectedPackageFiles": [
-    "/home/bajuba/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.16/microsoft.netcore.app.host.linux-x64.3.1.16.nupkg.sha512"
+    "C:\\Users\\cmlan\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\cmlan\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\cmlan\\.nuget\\packages\\qrcoder\\1.4.1\\qrcoder.1.4.1.nupkg.sha512",
+    "C:\\Users\\cmlan\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

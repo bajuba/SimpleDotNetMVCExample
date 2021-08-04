@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/bajuba/.dotnet/store/|arch|/|tfm|",
-      "/home/bajuba/.nuget/packages"
+      "C:\\Users\\cmlan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cmlan\\.nuget\\packages"
     ]
   }
 }
