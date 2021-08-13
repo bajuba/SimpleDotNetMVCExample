@@ -29,7 +29,10 @@ namespace BusinessCardWebApp.Controllers
             ViewBag.name = name;
             return View();
         }
-
+        public IActionResult Banana()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {
